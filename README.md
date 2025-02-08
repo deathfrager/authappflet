@@ -6,6 +6,6 @@ flet for gui /
 bcrypt for hash /
 random for captcha /
 string for captcha /
-sqlite3 for database /
+sqlite3 for database 
 -
 by deathfrager
